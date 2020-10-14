@@ -37,53 +37,26 @@ Table of contents
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started) [redux.js.org] → `How`
-- [NgRx docs](https://ngrx.io/guide/store) [ngrx.io] → `How`
-- [Vuex docs](https://vuex.vuejs.org) [vuejs.org] → `How` `What` `Why`
-
 ## Cloud
-
-- [12 factor app](https://12factor.net/) [12factor.net] → `What` `Why`
 
 # DevOps
 
 ## Continuous integration (CI)
 
-- [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com] → `Resources`
-
 ## Continuous deployment (CD)
-
-- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd) [redhat.com] → `Resources` `What` `Why`
-- [Continuous delivery vs. continuous deployment](https://azure.microsoft.com/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `What` `Why`
 
 # Conception
 
 ## Accessibility
 
-- [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) [developer.mozilla.org] → `What` `Why` `How`
-
 ## Domain Driven Design
-
-- [An Introduction to Domain Driven Design and Its Benefits](https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be) [dzone.com] → `What` `Why`
 
 # Project management / Agile development
 
 ## Retrospectives
 
-- [What is a Sprint Retrospective?](https://www.scrum.org/resources/what-is-a-sprint-retrospective) [scrum.org] → `What` `Why` `Resources`
-- [Heartbeat Retrospective](https://www.agilealliance.org/glossary/heartbeatretro/) [agilealliance.org] → `What` `Why`
-- [Retrospective Playbook](https://www.atlassian.com/team-playbook/plays/retrospective#instructions) [atlassian.com] → `How`
-
 # Development practices
 
 ## Code reviews
 
-- [Code Review Developer Guide](https://google.github.io/eng-practices/review/) [google.github.io] → `What` `How` `Resources`
-- [Code Review — The Ultimate Guide](https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/) [freecodecamp.org] → `Why` `How`
-
 ## Test-Driven Development (TDD)
-
-- [Introduction to Test Driven Development](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92) [hackernoon.com] → `What` `Why` `How`
-- [An Introduction to Test Driven Development](https://accu.org/journals/overload/19/104/grenyer_1968/) [accu.org] → `What` `Why` `How`
-- [Introduction to Test Driven Development](https://youtu.be/F6jQV9sE9HE) [youtube.com] → `How` `What`
-- [What is Test Driven Development (TDD)? Tutorial with Example](https://www.guru99.com/test-driven-development.html) [guru99.com] → `What` `Why` `How`
