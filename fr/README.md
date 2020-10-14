@@ -35,58 +35,29 @@ Sommaire
 ## Architecture hexagonale
 
 - [Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE) [youtube.com] → `Quoi` `Pourquoi` `Comment`
-- [Architecture Hexagonale : Comment bien écrire ses tests ?](https://www.youtube.com/watch?v=4vBJAN3ttkc) [youtube.com] → `Comment`
-- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/) [blog.octo.com] → `Quoi` `Pourquoi` `Comment`
 
 ## State management
 
-- [Redux docs](https://redux.js.org/introduction/getting-started) [redux.js.org] [:uk:] → `Comment`
-- [NgRx docs](https://ngrx.io/guide/store) [:uk:] [ngrx.io] → `Comment`
-- [Vuex docs](https://vuex.vuejs.org) [:uk:] [vuejs.org] → `Comment` `Quoi` `Pourquoi`
-
 ## Cloud
-
-- [12 factor app](https://12factor.net/fr/) [12factor.net] → `Quoi` `Pourquoi`
 
 # DevOps
 
 ## Intégration continue (CI)
 
-- [Réussir ses mises en prod grâce à l'intégration continue](https://www.youtube.com/watch?v=70LqFphGmC8) [youtube.com] → `Quoi` `Pourquoi`
-- [Pourquoi mettre en place de l'intégration continue](https://blog.soat.fr/2013/04/pourquoi-mettre-en-place-de-lintegration-continue/) [bloag.soat.fr] → `Pourquoi`
-- [L'intégration continue : qu'est-ce que c'est ?](https://blog.axopen.com/2019/07/lintegration-continue-quest-ce-que-cest/) [blog.axopen.com] → `Quoi` `Pourquoi`
-- [Awesome CI and CD](https://github.com/cicdops/awesome-ciandcd) [github.com][:uk:] → `Ressources`
-
 ## Déploiement continu (CD)
-
-- [Qu'est-ce que l'approche CI/CD ?](https://www.redhat.com/fr/topics/devops/what-is-ci-cd) [redhat.com] → `Ressources` `Quoi` `Pourquoi`
-- [Livraison continue et déploiement continu](https://azure.microsoft.com/fr-fr/overview/continuous-delivery-vs-continuous-deployment/?WT.mc_id=firststeps-github-yolasors) [azure.microsoft.com] → `Quoi` `Pourquoi`
 
 # Conception
 
 ## Accessibilité
 
-- [Qu'est ce que l'accessibilité?](https://developer.mozilla.org/fr/docs/Apprendre/a11y/What_is_accessibility) [developer.mozilla.org] → `Quoi` `Pourquoi` `Comment`
-- [Qu'est ce que l'inclusive design?](https://www.youtube.com/watch?v=ISjbFDcGqhA) [youtube.com] → `Quoi` `Pourquoi`
-
 ## Domain Driven Design
-
-- [Introduction au Domain Driven Design](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design) [lesdieuxducode.com] → `Quoi`
 
 # Gestion de projet / Agilité
 
 ## Retrospectives
 
-- [La rétrospective : qui ? quoi ? comment ?](https://blog.soat.fr/2018/12/retrospectives/) [blog.soat.fr]
-
 # Pratiques de développement
 
 ## Revue de code
 
-- [Principes et avantages de la revue de code](https://www.novaway.fr/blog/tech/principes-et-avantages-de-la-revue-de-code) [novaway.fr] → `Quoi` `Pourquoi` `Comment`
-- [Code review: comment faire une review constructive](https://practicalprogramming.fr/comment-faire-une-code-review/) [practicalprogramming.fr] → `Comment`
-
 ## Test-Driven Development (TDD)
-
-- [TDD : pour que votre code soit testable et testé!](https://www.youtube.com/watch?v=EW98_rwUQec) [youtube.com] → `Quoi` `Pourquoi` `Comment`
-
