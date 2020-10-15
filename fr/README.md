@@ -51,6 +51,7 @@ Sommaire
 ## Accessibilité
 
 ## Domain Driven Design
+- [Domain Driven Design - Ressources à connaître](https://www.domainlanguage.com/ddd/)
 
 # Gestion de projet / Agilité
 
