@@ -50,6 +50,7 @@ Table of contents
 ## Accessibility
 
 ## Domain Driven Design
+- [Domain Driven Design - Famous resources](https://www.domainlanguage.com/ddd/)
 
 # Project management / Agile development
 
